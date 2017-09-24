@@ -123,7 +123,7 @@ cnvtTup[0] = 0
 cnvtTup[1] = 1
 cnvtTup[2] = 2
 
-print cnvtTup
+print cnvtTup #[0, 1, 2, ['hello', 'thomas']] ... powerful stuff
 
 
 
